@@ -42,7 +42,7 @@ img {
     gap: 10px; /*Deixando um vão entre as imagens*/
 }
 
-section {
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
 }
