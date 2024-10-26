@@ -39,5 +39,10 @@ img {
 .categoria-videos {
     display: flex;
     overflow-x: auto; /*seta direita e esquerda para navegação*/
-    gap: 20px; /*Deixando um vão entre as imagens*/
+    gap: 10px; /*Deixando um vão entre as imagens*/
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
 }
