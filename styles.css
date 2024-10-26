@@ -43,7 +43,11 @@ p {
     padding-right: 20px;
 }
 
-.categoria-videos img { /*Quando passar o mouse fazer um efeito*/
+.categoria-videos img { /*Deixar a img escura*/
     opacity: 0.5;
     height: 200px;
+}
+
+.categoria-videos img:hover { /*Efeito de clarear*/
+    opacity: 1.0;
 }
