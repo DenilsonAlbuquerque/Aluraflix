@@ -38,4 +38,6 @@ img {
 
 .categoria-videos {
     display: flex;
+    overflow-x: auto; /*seta direita e esquerda para navegação*/
+    gap: 20px; /*Deixando um vão entre as imagens*/
 }
